@@ -42,7 +42,7 @@ ul li a.active {
 }
 
 body{
-background-color: #ecd2f1;
+background-image: url("nerve_cell_background.webp");
 
 .markazi-text-<uniquifier> {
   font-family: "Markazi Text", serif;
@@ -50,4 +50,6 @@ background-color: #ecd2f1;
   font-weight: 400;
   font-style: normal;
 }
+h1{
+  color: #fffdfdea;
 }
