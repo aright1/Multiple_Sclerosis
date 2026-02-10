@@ -42,7 +42,7 @@ ul li a.active {
 }
 
 body{
-  background-image: url("nerve_cell_background.webp");
+  background-image: url("nerve_cell_bg2.jpg");
   font-family: "Markazi Text", serif;
   font-optical-sizing: auto;
   font-weight: 400;
@@ -53,6 +53,13 @@ body{
 h1{
   color: #fffdfdea;
 }
-<a{
-  color:#e6b5e6;
+
+a:link {
+  color:#d859d8;
+}
+a:visited {s
+color:#22358b;
+}
+a:hover {
+color:aquamarine;
 }
